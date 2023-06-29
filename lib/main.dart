@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Counter App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-         colorSchemeSeed: Colors.limeAccent,
+         colorSchemeSeed: Colors.greenAccent,
          useMaterial3: true,
          brightness: Brightness.dark
       ),
